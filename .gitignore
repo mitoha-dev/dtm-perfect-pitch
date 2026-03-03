@@ -1,0 +1,13 @@
+# Rust / Cargo
+target/
+**/*.rs.bk
+
+# Optional: VSCode
+.vscode/
+
+# Optional: IntelliJ / CLion
+.idea/
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
